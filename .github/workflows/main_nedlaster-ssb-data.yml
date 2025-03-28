@@ -7,7 +7,7 @@ name: Build and deploy Python app to Azure Web App - Nedlaster-SSB-data
 on:
   push:
     branches:
-      - main
+    
   workflow_dispatch:
 
 jobs:
